@@ -12,8 +12,10 @@
 
 ### 🛠️ 常用语言占比
 
-<!-- 如果上面的多功能图还是被限流，这里有一个极其轻量、绝对不会被拦截的语言条 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heguang123456&layout=compact&theme=radial)
+<!-- 替换为了绝对不会被拦截的顶级备用多功能镜像站 -->
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
+</p>
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
