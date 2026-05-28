@@ -1,12 +1,12 @@
 # 欢迎来到我的主页！
 
-<!-- 使用了更稳定的国内镜像服务器镜像，并绑定了你的用户名 -->
+<!-- 使用了国内极速镜像服务器 qiufeng 提供的服务 -->
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=heguang123456&show_icons=true&theme=radial" alt="heguang123456's GitHub stats" />
+  <img src="https://github-readme-stats.qiufeng.blue/api?username=heguang123456&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
+  <img src="https://github-readme-stats.qiufeng.blue/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
 </p>
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
