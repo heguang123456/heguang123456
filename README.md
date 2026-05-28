@@ -1,5 +1,10 @@
-## Hi there 👋
+# 欢迎来到我的主页！
 
+<!-- 展示你的全面语言和活动统计饼图/雷达图 -->
+![](https://github-readme-stats.vercel.app/api?username=heguang123456&show_icons=true&theme=radial)
+
+<!-- 展示你倾向的贡献类型 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heguang123456&layout=compact&theme=radial)
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
