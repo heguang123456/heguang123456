@@ -1,10 +1,13 @@
 # 欢迎来到我的主页！
 
-<!-- 展示你的全面语言和活动统计饼图/雷达图 -->
-![](https://github-readme-stats.vercel.app/api?username=heguang123456&show_icons=true&theme=radial)
+<!-- 使用了更稳定的国内镜像服务器镜像，并绑定了你的用户名 -->
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=heguang123456&show_icons=true&theme=radial" alt="heguang123456's GitHub stats" />
+</p>
 
-<!-- 展示你倾向的贡献类型 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heguang123456&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
+</p>
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
