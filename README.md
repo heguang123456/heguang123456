@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github-readme-stats.qiufeng.blue/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
 </p>
-![](https://github-profile-trophy.vercel.app/?username=heguang123456&theme=radial)
+![play](https://github-profile-trophy.vercel.app/?username=heguang123456&theme=radial)
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
