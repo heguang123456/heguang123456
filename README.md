@@ -1,14 +1,19 @@
 # 欢迎来到我的主页！
 
-<!-- 使用了国内极速镜像服务器 qiufeng 提供的服务 -->
+### 📊 我的 GitHub 动态统计
+
+<!-- 方案 A：使用完全基于 GitHub Actions 渲染的 3D 贡献积木图（或者是原生的贡献格） -->
+<!-- 这是一个最不容易出错的官方原生直链，展示你整体的活跃度 -->
 <p align="center">
-  <img src="https://github-readme-stats.qiufeng.blue/api?username=heguang123456&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heguang123456&theme=react-dark" alt="heguang123456's activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.qiufeng.blue/api/top-langs/?username=heguang123456&layout=compact&theme=radial" alt="Top Langs" />
-</p>
-![play](https://github-profile-trophy.vercel.app/?username=heguang123456&theme=radial)
+---
+
+### 🛠️ 常用语言占比
+
+<!-- 如果上面的多功能图还是被限流，这里有一个极其轻量、绝对不会被拦截的语言条 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heguang123456&layout=compact&theme=radial)
 <!--
 **heguang123456/heguang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
